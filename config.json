@@ -1,0 +1,13 @@
+{
+  "brand": "RCE Informatique",
+  "owner": "Régis Charnacé",
+  "siren": "799322383",
+  "country": { "fr": "France", "en": "France" },
+  "email": "regis.charnace@gmail.com",
+  "baseUrl": "https://charnaceregis.github.io/rce-informatique",
+  "tagline": {
+    "fr": "Développeur indépendant d'applications mobiles et web.",
+    "en": "Independent developer of mobile and web applications."
+  },
+  "lastUpdated": "2026-11-17"
+}
