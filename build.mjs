@@ -194,6 +194,7 @@ function page(lang, name) {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${c.title}</title>
 <meta name="description" content="${c.desc}">
+<meta name="google-site-verification" content="f2bMGzd3anw9CbhAVvPja8kZNMaBRxQ90m7Fju6Ero4" />
 <link rel="canonical" href="${url(lang)}">
 <link rel="alternate" hreflang="fr" href="${url("fr")}">
 <link rel="alternate" hreflang="en" href="${url("en")}">
